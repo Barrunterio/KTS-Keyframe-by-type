@@ -15,8 +15,9 @@ Tools are defined to follow:
     * <img width="20" height="20" src="https://github.com/Barrunterio/BRT-Images-for-reuse/assets/165154706/fa2a7ede-e9e0-436e-b3c2-cf2275fc4799"> Active or Selected Collections
 
 
-**Knowing limitations**
-- selection needs to change to multiple bool selection to more usability.
-- need to add mask, shapekeys, cached and grease pencil ketframe option.
+> [!NOTE]
+> **Knowing limitations;**
+> * Selection needs to change to multiple bool selection to more usability.
+> * Lacks mask, shapekeys, cached and grease pencil keyframe option.
 
 
